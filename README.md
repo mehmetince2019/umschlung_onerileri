@@ -3,9 +3,8 @@ umschlung yapanlara öneriler ( umschulung.apk)
 
 Almanya'da Fachinformatik umschulung yapan Türkler icin 
 faydali önerileri derleyen interaktif Android uygulama.. 
-
-sizde dokumani okyup görüslerinizi direkt olarak ekleyebilir 
-dökümandaki hata ve eksiklilkleri bildirebilirsinz
+---------------------------------------------------
+siz de dokumani okyup görüslerinizi direkt olarak ekleyebilir, dökümandaki hata ve eksiklilkleri bildirebilirsinz
 veya kodlamaya destek olablirsiniz ( acil destek talebi : php formlarin sql injektion a karsi korumansi icin kodlamaya destegine ihtiyac var. )
 
 ---------------------------------------
@@ -28,7 +27,7 @@ wikipedia gibi kullanicilnin interaktif olarak icerik olusturabilecei bor platfo
 bu amacla php mysql kullanilarak bir web sitesinde database olusruruldu. 
 crud dokumanlarindan faydalinarak edit ve ekle butonlari eklendi 
 
------------------
+---------------------------------------------
 
 database bir websitesinde mysql üzerinde tutuluyor 
 arayüz php kullanilarak olusturuldu.
@@ -36,7 +35,7 @@ butonlar botstrap5 ile olusturuldu.
 apk,   appinventor  kulllanilarak olusutruldu 
 google consolda yayinlandi 
 
----------------------
+-----------------------------------------
 
 program 2022 de google play de yayinlandi. 
 maalesef henüz tam olgunlasmadan denemmeler tamalanmadan yayinlandi. 
