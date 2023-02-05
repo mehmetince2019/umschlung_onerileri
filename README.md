@@ -1,4 +1,4 @@
-# umschlung_onerileri-
+# umschlung önerileri
 umschlung yapanlara öneriler ( umschulung.apk) 
 
 Almanya'da Fachinformatik umschulung yapan Türkler icin 
@@ -6,18 +6,18 @@ faydali önerileri derleyen interaktif Android uygulama..
 
 sizde dokumani okyup görüslerinizi direkt olarak ekleyebilir 
 dökümandaki hata ve eksiklilkleri bildirebilirsinz
-veya kodlamaya destek olablirsiniz
-acil destek talebi : php formlarin sql injektion a karsi korumasi icin kodlamaya desztegine ihtiyac var. 
+veya kodlamaya destek olablirsiniz ( acil destek talebi : php formlarin sql injektion a karsi korumansi icin kodlamaya destegine ihtiyac var. )
 
 ---------------------------------------
 programda  neler var? 
+
 Umschulung hazirlik süreci nasil olmali?
 2 yil sonraki sinava nasil hazirlanmali?
 Derslerde neler anlatiliyor? 
 Lernfeld nedir?
 derslerde hangi materyaller kulaniliyor?
-Türkce egitim destek dökümanlari neler 
-ve bunlar gibi bircol soruya cevapalri bulabiuleceginiz dinamik gelistirilen database 
+Türkce egitim destek dökümanlari neler ?
+ve bunlar gibi bircok soruya cevaplari bulabiuleceginiz dinamik gelistirilen database 
 
 kisaca.. 
 kurs boyunca ögrencilere faydali olacak linkler , belgeler, ders notlari, kisa kisa  tecrübe aktarimlari.. 
