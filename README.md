@@ -5,7 +5,8 @@ Almanya'da Fachinformatik umschulung yapan Türkler icin
 faydali önerileri derleyen interaktif Android uygulama.. 
 ---------------------------------------------------
 siz de dokumani okyup görüslerinizi direkt olarak ekleyebilir, dökümandaki hata ve eksiklilkleri bildirebilirsinz
-veya kodlamaya destek olablirsiniz ( acil destek talebi : php formlarin sql injektion a karsi korumansi icin kodlamaya destegine ihtiyac var. )
+veya kodlamaya destek olablirsiniz 
+(acil destek talebi : php formlarin sql injektiona karsi korumak icin kodlamaya ihtiyac var. )
 
 ---------------------------------------
 programda  neler var? 
@@ -48,3 +49,7 @@ ancak icerik web sitesinde oldugundan ve direkt güncellendiginden rahatlikla fa
 google play indirme linki
 https://play.google.com/store/apps/details?id=appinventor.ai_mehmetince2019.umschulung&gl=DE
 
+öneriler dokumani eski bir pdf baskisi:
+https://drive.google.com/drive/u/1/folders/1xRX4vG7nMpvrbEPoFVjUza54KBVbfYkA
+* 2022/12 den sonra pdf dokumanin güncelelemesi duruduldu. 
+önerilerin son hali icin google playden apk yi indirin. 
