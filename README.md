@@ -4,9 +4,8 @@ umschlung yapanlara öneriler ( umschulung.apk)
 Almanya'da Fachinformatik umschulung yapan Türkler icin 
 faydali önerileri derleyen interaktif Android uygulama.. 
 ---------------------------------------------------
-siz de dokumani okyup görüslerinizi direkt olarak ekleyebilir, dökümandaki hata ve eksiklilkleri bildirebilirsinz
-veya kodlamaya destek olablirsiniz 
-(acil destek talebi : php formlarin sql injektiona karsi korumak icin kodlamaya ihtiyac var. )
+siz de dokumani okuyup görüslerinizi ekleyebilir, dökümandaki hata ve eksiklikleri bildirebilirsinz
+veya kodlamaya destek olabilirsiniz 
 
 ---------------------------------------
 programda  neler var? 
