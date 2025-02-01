@@ -48,6 +48,12 @@ ancak icerik web sitesinde oldugundan ve direkt güncellendiginden rahatlikla fa
 google play indirme linki
 https://play.google.com/store/apps/details?id=appinventor.ai_mehmetince2019.umschulung&gl=DE
 
+------------------------
+
+Database web sayfasinda direkt bilgilere ulasmak icin :
+https://ince.one/umschulung_yenilere_oneriler/index.php
+* edit butonlarina tiklayarak ekleme / düzeltme yapabilirsiniz
+
 öneriler dokumani eski bir pdf baskisi:
 https://drive.google.com/drive/u/1/folders/1xRX4vG7nMpvrbEPoFVjUza54KBVbfYkA
 * 2022/12 den sonra pdf dokumanin güncelelemesi duruduldu. 
